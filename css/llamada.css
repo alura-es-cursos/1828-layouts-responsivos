@@ -3,17 +3,17 @@
     flex-direction: column;
     align-items: center;
 
-    color: #FFFFFF;
+    color: var(--background-blanco);
     text-align: center;
     
-    background-color: #00161C;
+    background-color: var(--background-llamada-mobile);
 
     padding-top: 12.25rem;
     padding-bottom: 2.5rem;
 }
 
 .llamada__titulo {
-    font-family: 'Montserrat', serif;
+    font-family: var(--montserrat);
     font-size: 2rem;
     font-weight: 700;
     text-transform: uppercase;
