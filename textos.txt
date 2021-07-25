@@ -21,10 +21,10 @@ Conozca los planes
 
 Destacados
 
-alt: Painel de la publicación sobre la creación del logotipo
+alt: Panel de la publicación sobre la creación del logotipo
 Conozca las primeras etapas de la creación de un logotipo
 
-alt: Painel de la publicación sobre consejos de fotografía
+alt: Panel de la publicación sobre consejos de fotografía
 ¿Trabajas con fotografía? Conozca esos consejos
 
 Recibir destacados por correo
