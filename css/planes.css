@@ -63,7 +63,7 @@
 }
 
 .tarjetas__texto {
-    color: var(--fuente-ceniza-claro);
+    color: var(--fuente-ceniza-oscuro);
     line-height: 28px;
 }
 
