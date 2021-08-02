@@ -40,3 +40,13 @@
 .diferenciales__item-quimica {
     background-image: url(../img/icono-quimica.png);
 }
+
+@media screen and (min-width: 1024px) {
+    .diferenciales {
+        background-color: var(--background-ceniza-claro);
+    }
+    
+    .diferenciales__lista {
+        justify-content: space-around;
+    }
+}
