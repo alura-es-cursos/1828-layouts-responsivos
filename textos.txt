@@ -47,6 +47,7 @@ Sobre nosotros
 ¡Creamos aplicaciones personalizados para todas las personas!
 
 La manutención de una aplicación no puede ser un custo extra para el cliente. En Apeperia firmas nuestro servicio la manutención ya se incluye en el servicio. De esa manera no te preocupes con la atualización, es por cuenta de nosotros.
+
 ¡Tenemos un equipo especializado y exclusivo para proyectos increíbles!
 
 Desarrollamos aplicaciones para todas plataformas
@@ -55,7 +56,7 @@ Desarrollamos aplicaciones para todas plataformas
 
 Start
 
-$ 500
+R$ 500
 5 manutenciones mensuales
 App SEO
 1 sistema operacional
@@ -63,7 +64,7 @@ Asignar plan
 
 Ultra
 
-$ 1500
+R$ 1500
 20 manutenciones mensuales
 App SEO
 4 sistemas operacionales
@@ -72,7 +73,7 @@ Asignar plan
 
 Mega
 
-$ 1000
+R$ 1000
 10 manutenciones mensuales
 App SEO
 2 sistemas operacionales
@@ -80,15 +81,11 @@ Asignar plan
 
 --- CONTACTO ---
 
-Contacto
-
 Entre en contacto con nosotros
 
 Entre en contacto
 
---- INSTITUCIONAL ---
-
-Institucional
+--- Institucional ---
 
 Un poco más sobre Apeperia
 
@@ -99,10 +96,6 @@ Villa Mariana, São Paulo
 contato@apeperia.com
 
 --- FOOTER ---
-
-ícono de Facebook
-Ícono de Instagram
-Ícono de Twitter
 
 Sobre
 Planes
